@@ -1,13 +1,13 @@
 {
-  "app": {"version": "2.3", "code": 13, "apk": "https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-test.apk"},
+  "app": {"version": "2.4", "code": 14, "apk": "https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-test.apk"},
   "firmware": {
-    "version": "3.1.0",
-    "gl016": "https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-ota-3.1.0-gl016.bin",
-    "devkit": "https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-ota-3.1.0-devkit.bin"
+    "version": "3.1.1",
+    "gl016": "https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-ota-3.1.1-gl016.bin",
+    "devkit": "https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-ota-3.1.1-devkit.bin"
   },
   "mirrors": {
-    "apk": ["https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-test.apk", "https://fastly.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-test.apk", "https://github.com/ivalushin0/motohub-lights/releases/download/v2.3/motohub-lights-test.apk"],
-    "gl016": ["https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-ota-3.1.0-gl016.bin", "https://fastly.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-ota-3.1.0-gl016.bin", "https://github.com/ivalushin0/motohub-lights/releases/download/v2.3/motohub-lights-ota-3.1.0-gl016.bin"],
-    "devkit": ["https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-ota-3.1.0-devkit.bin", "https://fastly.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.3/files/motohub-lights-ota-3.1.0-devkit.bin", "https://github.com/ivalushin0/motohub-lights/releases/download/v2.3/motohub-lights-ota-3.1.0-devkit.bin"]
+    "apk": ["https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-test.apk", "https://fastly.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-test.apk", "https://github.com/ivalushin0/motohub-lights/releases/download/v2.4/motohub-lights-test.apk"],
+    "gl016": ["https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-ota-3.1.1-gl016.bin", "https://fastly.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-ota-3.1.1-gl016.bin", "https://github.com/ivalushin0/motohub-lights/releases/download/v2.4/motohub-lights-ota-3.1.1-gl016.bin"],
+    "devkit": ["https://cdn.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-ota-3.1.1-devkit.bin", "https://fastly.jsdelivr.net/gh/ivalushin0/motohub-lights@v2.4/files/motohub-lights-ota-3.1.1-devkit.bin", "https://github.com/ivalushin0/motohub-lights/releases/download/v2.4/motohub-lights-ota-3.1.1-devkit.bin"]
   }
 }
