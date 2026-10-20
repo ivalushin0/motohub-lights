@@ -7,8 +7,8 @@
 
 - **«Тест подсветки»** — приложение Android для проверки и настройки (`motohub-lights-test.apk`).
 - **Прошивка** для контроллера:
-  - `motohub-lights-3.2.0-gl016.bin` — для первой прошивки по USB-C (адрес **0x0**, страница esptool-js);
-  - `motohub-lights-ota-3.2.0-gl016.bin` — для обновления по Bluetooth из приложения;
+  - `motohub-lights-3.2.1-gl016.bin` — для первой прошивки по USB-C (адрес **0x0**, страница esptool-js);
+  - `motohub-lights-ota-3.2.1-gl016.bin` — для обновления по Bluetooth из приложения;
   - файлы `…-devkit.bin` — для самодельной платы на ESP32 DevKit (не для Gledopto).
 - **Инструкция** (PDF) и **схема подключения**.
 
