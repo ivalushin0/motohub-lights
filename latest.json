@@ -1,0 +1,8 @@
+{
+  "app": {"version": "2.2", "code": 12, "apk": "https://github.com/ivalushin0/motohub-lights/releases/download/v2.2/motohub-lights-test.apk"},
+  "firmware": {
+    "version": "3.0.0",
+    "gl016": "https://github.com/ivalushin0/motohub-lights/releases/download/v2.2/motohub-lights-ota-3.0.0-gl016.bin",
+    "devkit": "https://github.com/ivalushin0/motohub-lights/releases/download/v2.2/motohub-lights-ota-3.0.0-devkit.bin"
+  }
+}
